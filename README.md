@@ -54,4 +54,21 @@ This project simulates a real-world environmental data analysis scenario. It dem
 - Design incentive programs
 - Monitor sustainable growth across regions
 
+---
 
+## 📂 How to Run
+
+1. Open Power BI Desktop.
+2. Load the provided dataset or connect to your own.
+3. Open the `.pbix` file from this repository.
+4. Interact with the dashboard using filters and slicers.
+
+---
+
+## 📬 Contact
+
+For questions or collaboration:
+
+**Shilpa K C**  
+Data Science Intern  
+[LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
