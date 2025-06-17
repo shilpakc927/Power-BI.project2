@@ -43,6 +43,10 @@ Using this data, I created dynamic visuals to explore:
 - 🌍 City-level comparisons of EV adoption
 - ♻️ CAFV eligibility visualized for policy insights
 
+  ## 📁 Files Included
+- `electric vehicle analysis.pbix.pbix` – power bi file with dashboard and raw data
+- `Electric vehicle project2.pdf` – Dashboard preview image
+
 ## 📌 Outcome
 
 This project simulates a real-world environmental data analysis scenario. It demonstrates how businesses and governments can leverage Power BI to:
