@@ -2,6 +2,7 @@
 
 This project presents an interactive Power BI dashboard that visualizes electric vehicle (EV) adoption trends across different cities, models, and manufacturers in the U.S. The goal is to extract meaningful insights on EV growth, performance, and regional distribution using a structured dataset.
 
+---
 ## 📊 Project Overview
 
 The dashboard is built using a dataset containing:
@@ -19,6 +20,7 @@ Using this data, I created dynamic visuals to explore:
 - CAFV eligibility
 - BEV vs PHEV adoption rates
 
+---
 ## 🔍 Key Insights
 
 - **Total Vehicles:** 150K+ EVs analyzed
@@ -28,6 +30,7 @@ Using this data, I created dynamic visuals to explore:
 - **Fuel Type Breakdown:** 78% BEV and 22% PHEV vehicles
 - **CAFV Program:** 46% of vehicles are eligible for clean fuel incentives
 
+---
 ## 🛠 Tools & Technologies
 
 - **Power BI**: for building interactive visuals and dashboard layout
@@ -35,6 +38,7 @@ Using this data, I created dynamic visuals to explore:
 - **DAX (Data Analysis Expressions)**: for creating custom measures and KPIs
 - **Visual Elements**: Cards, Slicers, Line & Bar Charts, Treemap, Donut Charts
 
+---
 ## 📂 Dashboard Features
 
 - ✅ Filter panel to view data by city, utility provider, and EV type
@@ -43,6 +47,7 @@ Using this data, I created dynamic visuals to explore:
 - 🌍 City-level comparisons of EV adoption
 - ♻️ CAFV eligibility visualized for policy insights
 
+---
 ## 📌 Outcome
 
 This project simulates a real-world environmental data analysis scenario. It demonstrates how businesses and governments can leverage Power BI to:
@@ -50,6 +55,7 @@ This project simulates a real-world environmental data analysis scenario. It dem
 - Design incentive programs
 - Monitor sustainable growth across regions
 
+---
 ## 📁 Files Included
 - `electric vehicle analysis.pbix.pbix` – power bi file with dashboard and raw data
 - `Electric vehicle project2.pdf` – Dashboard preview image
