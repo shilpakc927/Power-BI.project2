@@ -50,10 +50,4 @@ This project simulates a real-world environmental data analysis scenario. It dem
 - Design incentive programs
 - Monitor sustainable growth across regions
 
-## 📸 Dashboard Snapshot
-
-![EV Dashboard](https://github.com/yourusername/ev-analysis/blob/main/dashboard-preview.png) <!-- Replace with your actual image path -->
-
----
-
 
