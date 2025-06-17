@@ -1,2 +1,59 @@
-# Power-BI.project2
-Using a dataset that includes EV type, model year, city, electric range, and manufacturer data, I developed an interactive Power BI dashboard to analyze growth patterns, model popularity, and eligibility for clean vehicle programs.
+# ⚡ Electric Vehicle Analysis - Power BI Dashboard
+
+This project presents an interactive Power BI dashboard that visualizes electric vehicle (EV) adoption trends across different cities, models, and manufacturers in the U.S. The goal is to extract meaningful insights on EV growth, performance, and regional distribution using a structured dataset.
+
+## 📊 Project Overview
+
+The dashboard is built using a dataset containing:
+- EV type (BEV, PHEV)
+- Model year
+- Manufacturer and model
+- Electric range
+- Clean Alternative Fuel Vehicle (CAFV) eligibility
+- City and electric utility
+
+Using this data, I created dynamic visuals to explore:
+- Growth in EV registrations over time
+- Top vehicle models and makes
+- EV distribution by city
+- CAFV eligibility
+- BEV vs PHEV adoption rates
+
+## 🔍 Key Insights
+
+- **Total Vehicles:** 150K+ EVs analyzed
+- **Top Manufacturer:** Tesla leads with over 69K vehicles
+- **Model Trends:** Model Y and Model 3 dominate the EV space
+- **Geographic Distribution:** Seattle tops the list for city-wide EV count
+- **Fuel Type Breakdown:** 78% BEV and 22% PHEV vehicles
+- **CAFV Program:** 46% of vehicles are eligible for clean fuel incentives
+
+## 🛠 Tools & Technologies
+
+- **Power BI**: for building interactive visuals and dashboard layout
+- **Power Query**: for data cleaning, transformation, and modeling
+- **DAX (Data Analysis Expressions)**: for creating custom measures and KPIs
+- **Visual Elements**: Cards, Slicers, Line & Bar Charts, Treemap, Donut Charts
+
+## 📂 Dashboard Features
+
+- ✅ Filter panel to view data by city, utility provider, and EV type
+- 📈 Yearly trend analysis of vehicle registrations
+- 🔎 Model-wise and make-wise breakdown of vehicle counts
+- 🌍 City-level comparisons of EV adoption
+- ♻️ CAFV eligibility visualized for policy insights
+
+## 📌 Outcome
+
+This project simulates a real-world environmental data analysis scenario. It demonstrates how businesses and governments can leverage Power BI to:
+- Promote electric vehicle adoption
+- Design incentive programs
+- Monitor sustainable growth across regions
+
+## 📸 Dashboard Snapshot
+
+![EV Dashboard](https://github.com/yourusername/ev-analysis/blob/main/dashboard-preview.png) <!-- Replace with your actual image path -->
+
+---
+
+
