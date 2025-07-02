@@ -69,6 +69,11 @@ This project simulates a real-world environmental data analysis scenario. It dem
 4. Interact with the dashboard using filters and slicers.
 
 ---
+## 📸 Project Screenshot
+
+- [Dashboard Screenshot](Screenshot%2095.png)
+
+---  
 
 ## 📬 Contact
 
